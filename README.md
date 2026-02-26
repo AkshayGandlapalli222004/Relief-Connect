@@ -1,7 +1,5 @@
 # RELIEF CONNECT - Connect for rescue and relief
 
-This project was first runner up in Impact Hacks'23. Checkout our devpost submission- https://devpost.com/software/relief-connect
-
 This is a disaster relief and rescue aid. It aims to reduce the issue of fragmented response by various organizations during the times of floods. This solution is a web based app.
 
 This product aims at building two interfaces- 
